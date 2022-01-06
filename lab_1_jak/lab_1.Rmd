@@ -83,4 +83,9 @@ ex_5 <- sf_trees %>%
   unite('id_status', tree_id, legal_status, sep = '_cool_')
 ```
 
+## Part 2: Make some maps
+```{r}
+
+```
+
 
